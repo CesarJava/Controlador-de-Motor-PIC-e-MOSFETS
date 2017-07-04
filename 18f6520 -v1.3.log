@@ -1,0 +1,6 @@
+# Writing all output to: C:\Users\Cesaros\Documents\Controlador\18f6520 -v1.3.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+Process stopped!
